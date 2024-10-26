@@ -1,0 +1,9 @@
+[submodule "be"]
+	path = be
+	url = https://github.com/EsiiPeachy/be.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/EsiiPeachy/scripts.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/EsiiPeachy/ui.git
